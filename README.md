@@ -1,6 +1,7 @@
 # fastAPI_GRAPHQL
 # Using fastAPI with graphql 
-pip install -r requirements.txt
+# Run this command 
+- pip install -r requirements.txt
 
 requirements.txt
 - asgiref==3.4.1
