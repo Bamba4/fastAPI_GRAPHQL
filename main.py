@@ -9,4 +9,4 @@ app.add_route('/graphql', GraphQLApp(schema=graphene.Schema(query=Query)))
 
 @app.get('/')
 def ping():
-    return {'ping': 'pong'}
+    return {'msg': 'My first commit'}
